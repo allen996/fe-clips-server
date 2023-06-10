@@ -23,7 +23,7 @@
     "node": ">=16.0.0"
   },
   "scripts": {
-    "start": "egg-scripts start --daemon --title=egg-server-fe-clips-server",
+    "start": "egg-scripts start --title=egg-server-fe-clips-server",
     "stop": "egg-scripts stop --title=egg-server-fe-clips-server",
     "dev": "egg-bin dev",
     "debug": "egg-bin debug",
